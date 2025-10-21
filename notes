@@ -1,0 +1,5 @@
+javac - java compiler comes with JDK [convert source code into byte code as well as verify syntax too]
+.class - byte code
+Java - interpreter
+java(jvm will be invoked) is the command interpret byte code
+java slogan : Write once excute anywhere (WORA)
