@@ -4,7 +4,7 @@ Java - interpreter
 java(jvm will be invoked) is the command interpret byte code
 java slogan : Write once excute anywhere (WORA)
 
---------------------
+-------------------------------------------
 
 jvm[java virtual machine]
 virtual machine - machine inside machine
@@ -15,3 +15,29 @@ JDK - Java Development kit - provide tools for app developement
 
 JDK include JRE include JVM
 variable - is a memory(Ram) storage which is use to store data
+
+----------------------------------------------
+6th
+
+concatination : used in strings to display the output
+-> we can use b/w diff datatypes
+-> if same datatype like int used by + it will acts as add. [use () with other datatypes]
++ -> ex of polymorphoism
+
+operators : used to modify the data
+
+++ -> increment by 1
+-- -> decrement by 1 
+
+shorthand format / compound assignment operator
+x = x + 10
+x += 10
+x *= 10
+
+types:
+1.arithmetic operator
+2.relational operator/comparison operator[==,!=,>,<  ]
+3.logical operator  [&&,||,!]
+4.bitwise operator [&(both bits are one),|(either one)]
+
+

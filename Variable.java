@@ -5,5 +5,7 @@ public class Variable{
         String name = "Nikhil";
         System.out.println(number);
         System.out.println(name);
+        System.out.println(name + number + 1);
+        System.out.println(name + (number+1));
     }
 }
