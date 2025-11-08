@@ -40,4 +40,12 @@ types:
 3.logical operator  [&&,||,!]
 4.bitwise operator [&(both bits are one),|(either one)]
 
+Conditional Statements
+->if
+->else
+->if-else
+->switch
+
+Note : we can use teneray operator(?) instead of if else
+
 
