@@ -49,3 +49,13 @@ Conditional Statements
 Note : we can use teneray operator(?) instead of if else
 
 
+13
+-----
+Scanner - helps to take dynamic values from user
+->Scanner is in java.util [package]
+->It has inbuilt methods
+  ->nextInt() -> takes integer values
+  ->next() -> takes next word
+  ->nextDouble -> takes decimal values
+  ->nextLine -> takes whole para
+
