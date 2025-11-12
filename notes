@@ -48,8 +48,6 @@ Conditional Statements
 
 Note : we can use teneray operator(?) instead of if else
 
-
-13
 -----
 Scanner - helps to take dynamic values from user
 ->Scanner is in java.util [package]
@@ -59,3 +57,16 @@ Scanner - helps to take dynamic values from user
   ->nextDouble -> takes decimal values
   ->nextLine -> takes whole para
 
+16
+-------
+looping Statements
+-> for loop : known before iterations.
+-> while : don't known before iterations.
+-> do-while : excute atleast once.
+
+jump Statements
+->break : exist from looping Statements/
+->continue : skip that particular Conditiona.
+->return : return value to caller.
+
+nested loops : loop inside other loop
