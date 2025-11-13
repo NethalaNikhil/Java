@@ -12,6 +12,9 @@ public class Tasks1 {
         boolean passed = avgScore > 75 ;
         attendence_percentage +=1;
         boolean awarded = (avgScore >= 90)  &&  (attendence_percentage > 75) ;
+        System.out.println(id);
+        System.out.println(name);
+        System.out.println(age);
         System.out.println(total_score);
         System.out.println(avgScore);
         System.out.println(passed);

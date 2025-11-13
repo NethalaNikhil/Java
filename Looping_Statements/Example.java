@@ -47,6 +47,7 @@ public class Example {
                 System.out.println(outer + "x" + inner + "= "+(outer*inner));
             }
          }
+         sc.close();
         
     }
 

@@ -38,5 +38,6 @@ public class NestedCondition {
         System.out.println("Student base price = "+baseFee);
         System.out.println("Discount amount = "+ discountAmount );
         System.out.println("Fee to pay = "+feeToPay);
+        sc.close();
     }
 }
