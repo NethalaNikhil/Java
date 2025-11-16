@@ -56,8 +56,6 @@ Scanner - helps to take dynamic values from user
   ->next() -> takes next word
   ->nextDouble -> takes decimal values
   ->nextLine -> takes whole para
-
-16
 -------
 looping Statements
 -> for loop : known before iterations.
@@ -70,3 +68,32 @@ jump Statements
 ->return : return value to caller.
 
 nested loops : loop inside other loop
+--------
+
+oops - object oriented programing language
+
+class:
+-> we Structure programs using data(characteristics) and behaviour(actions)
+-> Anything in real world consider as Object ex: pen,laptop
+-> blueprint on creating objects
+
+method:
+->behaviour(actions)
+->Block of code perform some take
+
+variable:
+->represent data(memory location)
+
+types of variable:
+  ->instance variable
+    instance -> object of a class
+    instance variable -> variable associated with objects
+    -> memory is allocated when obj is created
+    -> can have deafault values no value is allocated
+    ->store in heap area
+    ->created inside the class outside the method
+  ->local variable
+    ->created inside the method / blocks /constructor
+    ->used for tempory calculations
+    ->once execution completed memory is cleared.
+  ->Global/static variables
