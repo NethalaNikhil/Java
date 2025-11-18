@@ -69,7 +69,6 @@ jump Statements
 
 nested loops : loop inside other loop
 --------
-
 oops - object oriented programing language
 
 class:
@@ -97,3 +96,22 @@ types of variable:
     ->used for tempory calculations
     ->once execution completed memory is cleared.
   ->Global/static variables
+    -> inside class outside main method
+    -> declare using static keyword
+    -> calling using className.static variableName
+
+  ->Methods
+    do perform repeated task
+    synax:
+      simple:
+        accessModifer returnType methodName{
+
+        }
+      complex:
+        accessModifer static/nonstatic returnType methodName parameterList throws Exception{
+
+        } 
+    -> called using object 
+    -> can have parameter methods and parameters are local variables
+
+
