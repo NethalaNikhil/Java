@@ -2,7 +2,8 @@ package OopsConceptsPart1;
 
 import java.util.Scanner;
 
-public class Task {
+public class Student {
+    int rating;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter StudentId: ");
