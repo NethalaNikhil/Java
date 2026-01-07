@@ -114,4 +114,22 @@ types of variable:
     -> called using object 
     -> can have parameter methods and parameters are local variables
 
+  
+  ->Constructor
+    called automatically when ever object is created
+    mainly used for setup default values
+
+    note:
+    -> constructor name should be always className
+    -> No return type
+
+    Types:
+    -> default constructor
+    -> explict constructor
+
+  ->This
+  used diff b/w parameters and variable in constructor.
+
+  22
+
 

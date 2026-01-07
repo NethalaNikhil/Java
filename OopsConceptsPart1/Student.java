@@ -3,7 +3,7 @@ package OopsConceptsPart1;
 import java.util.Scanner;
 
 public class Student {
-    int rating;
+    int rating;      
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter StudentId: ");
